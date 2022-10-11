@@ -2,7 +2,7 @@
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-My Work: [Link to the GitHub Page](https://luthfiaryaa.github.io/Module-2-Coding-Assignment//)
+My Work: [Link to the GitHub Page](https://luthfiaryaa.github.io/Module-2-Coding-Assignment/)
 
 Woo-hoo! You get to do some coding! Exciting!
 
